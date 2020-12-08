@@ -12,3 +12,4 @@ Webotron is a script that will sync a local directory to an s3 bucket, and optio
 - List contents
 - Create and set up bucket
 - Sync directory tree to bucket
+- Set AWS profile with --profile=<profileName>
